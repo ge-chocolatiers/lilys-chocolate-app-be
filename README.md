@@ -1,2 +1,2 @@
 # lilys-chocolate-app-be
-Rating Lily's Chocolate 
+Rating Lily's Chocolate 🍫
